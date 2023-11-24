@@ -16,10 +16,10 @@
 <h2>Linguagens: </h2>
 <div>
   <img src="https://i.imgur.com/yTzwIaj.png" alt="HTML5" height="40" width="40">
-  <img src="https://i.imgur.com/KQ7zzdn.png" alt="CSS3" height="40" width="40">
+  <img src="https://i.imgur.com/KQ7zzdn.png" alt="CSS3" height="40" width="38">
   <img src="https://i.imgur.com/2X0vT0H.png" alt="PHP" height="40" width="40">
   <img src="https://i.imgur.com/3wnTlw5.png" alt="C++" height="40" width="40">
-  <img src="https://i.imgur.com/zlTdtwM.png" alt="C#" height="40" width="40">
+  <img src="https://i.imgur.com/zlTdtwM.png" alt="C#" height="40" width="35">
   <img src="https://i.imgur.com/KQhe4mo.png" alt="JAVA" height="40" width="40">
   <img src="https://i.imgur.com/o6o7rdm.png" alt="PYHTON" height="40" width="40">
 </div>
