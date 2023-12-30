@@ -5,11 +5,9 @@
 </p>
 
 
-- ❕❕ Cursando **Desenvolvimento de Software MultiPlataforma (2/6)**
+- ❕❕ Cursando **Desenvolvimento de Software Multiplataforma (2/6)**
 
 - 📚 Até agora gosto muito das Linguagens **C#, C++ e Java**
-
-- 👨‍💻 Com um projeto em mente que envolverá o estudo da Arquitetura do Console **Nintendo Entertainment System (NES)** e a Linguagem **Assembly** (Utilizada em muitos jogos da época)
 
 - ✉ Pra entrar em contato diretamente comigo só mandar mensagem no Discord: **bites_.**
 
