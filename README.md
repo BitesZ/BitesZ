@@ -5,7 +5,7 @@
 </p>
 
 
-- ❕❕ Cursando **Desenvolvimento de Software Multiplataforma (2/6)**
+- ❕❕ Cursando **Desenvolvimento de Software Multiplataforma (5/6)**
 
 - 📚 Até agora gosto muito das Linguagens **C#, C++ e Java**
 
