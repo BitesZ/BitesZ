@@ -7,7 +7,7 @@
 
 - ❕❕ Cursando **Desenvolvimento de Software Multiplataforma (5/6)**
 
-- 📚 Até agora gosto muito das Linguagens **C#, C++ e Java**
+- 📚 Até agora gosto muito das Linguagens **Kotlin e Java**
 
 - ✉ Pra entrar em contato diretamente comigo só mandar mensagem no Discord: **bites_.**
 
